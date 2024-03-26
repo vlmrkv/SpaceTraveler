@@ -22,6 +22,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ![Product Name Screen Shot](https://ucarecdn.com/589650db-0530-4b43-ac2f-2c9437c49b60/)
@@ -29,25 +30,28 @@
 A simple mobile application that solved many of the company's problems.
 
 Features:
+
 - Key indicators of company on one screen and advanced statistics of key indicators in one click
 - Userfrieldly UI
 - Multi-language support
 
 </br>
 
-
-
 ### Built With
 
-Modern mobile applications use modern libraries, and therefore we use the best libraries from Android Jetpack:
+Modern mobile applications use modern libraries, and therefore we use the best libraries from
+Android Jetpack:
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose) - for modern UI
-* [Jetpack Navigation](https://developer.android.com/guide/navigation) - for simple navigation between screens
-* [Jetpack ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - for screen level state holder
+* [Jetpack Navigation](https://developer.android.com/guide/navigation) - for simple navigation
+  between screens
+* [Jetpack ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - for
+  screen level state holder
 
 </br>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Installation
@@ -62,31 +66,38 @@ Modern mobile applications use modern libraries, and therefore we use the best l
 </br>
 
 <!--Demo -->
+
 # Demo
 
 ## Screens
-<img src="https://ucarecdn.com/3c00330c-8733-4114-a1c5-e16050196d04/" width="49%"> <img src="" width="49%">
+
+<img src="https://ucarecdn.com/3c00330c-8733-4114-a1c5-e16050196d04/" width="49%"> <img src="https://ucarecdn.com/ce7c2684-87db-4b24-8330-7f8ec07df265/" width="49%">
 
 </br>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Add English language support
 - [ ] Add more screens
 - [ ] Multi-language Support
 
-See the [open issues](https://github.com/vlmrkv/SpaceTraveler/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/vlmrkv/SpaceTraveler/issues) for a full list of proposed
+features (and known issues).
 
 </br>
 
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and
+create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull
+request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -105,7 +116,9 @@ Don't forget to give the project a star! Thanks again!
 </br>
 
 ## Contact
-This application was created on the course ["Android Theory - for Juniors"](https://stepik.org/a/138114)
+
+This application was created on the
+course ["Android Theory - for Juniors"](https://stepik.org/a/138114)
 
 
 
